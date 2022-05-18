@@ -17,6 +17,8 @@ after pressing button 'Play' 'cross figure' will be placed in the place where it
 
 ## How to play
 download all files from ttt_game folder and put them in one folder. After that you just need to compile tic-tac-toe.py
+#### ATTENTION! Save and close all your .py files before starting this(game will kill all python process after closing)
+
 
 ## Badges
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/672be0ba1f8a43818b65189a4a077620)
